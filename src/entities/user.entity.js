@@ -31,4 +31,6 @@ export const User = new EntitySchema({
       default: () => "CURRENT_TIMESTAMP",
     },
   },
+  
 });
+
